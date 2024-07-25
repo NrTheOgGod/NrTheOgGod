@@ -1,0 +1,81 @@
+body {
+    background-color: rgb(11, 0, 18);
+
+
+}
+
+.heading {
+    color: blueviolet;
+    text-align: center;
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+}
+
+.a {
+    color: aliceblue;
+    text-align: center;
+    font-family: monospace;
+    font-size: xx-large;
+    text-decoration: underline;
+    text-decoration-color: rgb(163, 228, 235);
+    text-decoration-style: wavy;
+
+}
+
+
+.bigbutt {
+    color: rgb(211, 230, 46);
+    display: flex;
+    justify-content: center; /* Center items horizontally */
+    gap: 20px; /* Add some space between the labels */
+    align-items: center; /* Align items vertically */
+}
+
+    
+#box {
+
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(17, 239, 32);
+    padding-top: 30px;
+    text-align: center;
+    font-size: x-large;
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+}
+
+#boxy {
+    border-radius: 20px;
+    height: 30px;
+    width: 100px;
+    text-align: center;
+    font: 1.34em sans-serif;
+}
+
+.buyyon {
+width: 70px;
+height: 50px;
+margin-top: 30px;
+border-radius: 8px;
+font-family: monospace;
+font-size: large;
+background-color: brown;
+color: aliceblue;
+position: absolute; left: 50%; transform: translateX(-50%);
+}
+
+#ans {
+    background-color: rgb(88, 87, 87);
+    width: 110px;
+    height: 110px;
+    border-radius: 10px;
+   position: absolute;
+   left: 50%;
+   margin-top: 100px;
+ 
+}
+
+#mo {
+    color: rgb(204, 206, 208);
+    align-items: center; 
+    text-align: center;
+
+}
