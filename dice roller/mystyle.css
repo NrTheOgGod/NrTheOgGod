@@ -1,0 +1,58 @@
+body{ 
+    background-color: rgb(8, 0, 0);
+}
+
+.bodycard {
+    background: linear-gradient(847deg , rgb(23, 244, 244) , rgb(12, 218, 22) , yellow);
+    height: 800px;
+    width: 500px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.bodycard h1 {
+color: aliceblue;
+font-size: xx-large;
+font-family:Verdana, Geneva, Tahoma, sans-serif ;
+font-style: italic;
+padding-top: 50px;
+}
+
+
+.bodycard input {
+
+width: 200px;
+height: 40px;
+border-radius: 15px;
+text-transform: capitalize;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+box-shadow: 2px 6px 20px rgba(0, 100, 0, 0.567);
+text-align: center;
+
+
+}
+
+.bodycard button {
+
+width: 50px;
+height: 40px;
+border-radius: 9px;
+box-shadow: 2px 6px 20px rgba(0, 100, 0, 0.567);
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+.bodycard input, button {
+
+    display: inline-block;
+    vertical-align: middle; 
+    margin: 5px
+}
+
+#diceImages img {
+    width: 100px;
+    height: 100px;
+}

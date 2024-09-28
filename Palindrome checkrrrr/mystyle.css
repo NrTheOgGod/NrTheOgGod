@@ -1,0 +1,11 @@
+body {
+    background: linear-gradient(135deg , rgba(8, 43, 238, 0.811) , rgb(174, 25, 255));
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+#allthings {
+    text-align: center;
+    border: 5px;
+
+}
